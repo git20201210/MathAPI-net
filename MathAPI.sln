@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAPI", "MathAPI.csproj", "{A0691681-A2D1-420A-B352-FD2CA73584BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0691681-A2D1-420A-B352-FD2CA73584BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0691681-A2D1-420A-B352-FD2CA73584BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0691681-A2D1-420A-B352-FD2CA73584BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0691681-A2D1-420A-B352-FD2CA73584BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89382E3D-ED33-4590-BEDC-A6544732CE4D}
+	EndGlobalSection
+EndGlobal
